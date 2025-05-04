@@ -1,5 +1,5 @@
 torch==2.5.1
-torchvision==0.15.1+cu121
+torchvision==0.15.1
 numpy==1.24.2
 scikit-learn==1.2.2
 Pillow==9.5.0
